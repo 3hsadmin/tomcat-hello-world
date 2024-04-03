@@ -10,7 +10,7 @@
 <html>
   <head>
       <link rel="stylesheet" type="text/css" href="style.css" />
-    <title>Tomcat Hello World!!</title>
+    <title>Tomcat 안녕 한글!!</title>
   </head>
   <body>
     <div class="message"><%=HelloWorld.getMessage() %></div>
